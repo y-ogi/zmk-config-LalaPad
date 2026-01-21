@@ -202,7 +202,7 @@
 
             bindings = <
 &kp ESCAPE  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH          &kp DOLLAR     &kp PERCENT  &kp CARET  &kp AMPERSAND  &kp ASTERISK      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp MINUS
-&trans      &kp LC(SPACE)    &kp LC(LEFT)  &kp LC(UP_ARROW)  &kp LC(RIGHT)  &none        &kp PLUS   &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp SEMICOLON          &kp SQT
+&trans      &kp LG(SPACE)    &kp LC(LEFT)  &kp LC(UP_ARROW)  &kp LC(RIGHT)  &none        &kp PLUS   &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp SEMICOLON          &kp SQT
 &trans      &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3      &kp NUMBER_5   &trans       &kp GRAVE  &none          &none             &none                 &kp UP_ARROW           &kp PIPE
 &trans      &trans           &trans        &trans            &trans         &none        &trans     &none          &trans            &kp LEFT              &kp DOWN               &kp RIGHT
                              &trans        &trans            &trans         &trans       &trans     &trans         &trans            &trans
