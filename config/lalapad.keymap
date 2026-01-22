@@ -236,9 +236,9 @@
         MOUSE_R_LAYER {
             display-name = "mouse_r_layer";
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans     &trans     &trans     &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &mkp LCLK  &mkp MCLK  &mkp RCLK  &none   &mo SCROLL_R_LAYER
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans     &mkp MB4   &mkp MB5   &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &mkp LCLK  &mkp MCLK  &mkp RCLK  &none   &mo SCROLL_R_LAYER
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans     &mo 5      &none      &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans     &trans     &trans     &trans  &trans
                 &trans  &trans  &trans  &trans  &trans  &trans     &trans     &trans
             >;
